@@ -11,6 +11,8 @@ Requirement
 
 *Xampp  with Apache,MySql,Tomcat Service 
 
+*Import the db attached name hospital.sql it contains basic user role,system and authorization details
+
 If it does not run try to match as per the screen shot but first try to run with above specification which should work fine
 
 ![image](https://github.com/owais0786/hospital/assets/42345643/d6c9e09f-c89d-4032-b8d7-6b8ab1023d67)
