@@ -11,7 +11,12 @@ Requirement
 
 *Xampp  with Apache,MySql,Tomcat Service 
 
+If it does not run try to match as per the screen shot but first try to run with above specification which should work fine
+
 ![image](https://github.com/owais0786/hospital/assets/42345643/d6c9e09f-c89d-4032-b8d7-6b8ab1023d67)
+
+![image](https://github.com/owais0786/hospital/assets/42345643/a300dff4-776a-4fba-8f64-a68ce517db75)
+
 
 --------------------------------------------------------------------------
 
